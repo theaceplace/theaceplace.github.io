@@ -1,0 +1,31 @@
+body{background-color:LightGrey ;}
+
+#dev{
+  font-size: 15px;
+}
+
+
+#top{ text-align: center }
+
+h3{ text-align: center }
+
+
+
+#dev{ border-style:groove; border-width:5px; border-color:red;     }
+
+.centered{ text-align: center;}
+
+
+.button{
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  
+}
+
+#top{ font-family:"Brush Script MT"}
+#top{ font-size:50px }
+#subhead{font-family:"Courier New"}
+#dev{ margin: 0; }
+
+
